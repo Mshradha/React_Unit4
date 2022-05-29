@@ -1,0 +1,36 @@
+body{
+    background-color: gray;
+}
+.todoList{
+    margin: auto;
+    margin-left: 300px;
+    width: 220px;
+    border-radius: 10px;
+    background-color: white;
+    /* border: 1px solid red; */
+}
+
+.todo{
+    display: flex;
+    max-width:  200px;
+}
+.striked{
+    text-decoration: line-through;
+}
+.inp{
+    border-radius: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    height: 30px;
+}
+.div1{
+    /* border: 1px solid black; */
+    margin-top: 50px;
+
+}
+button{
+    border-radius: 10px;
+    width: 60px;
+    height: 28px;
+    margin-left: 15px;
+}
