@@ -1,0 +1,27 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "value": "Local Todo",
+      "isComplete": true
+    },
+    {
+      "id": 2,
+      "value": "Local Todo1",
+      "isComplete": true
+    },
+    {
+      "id": 3,
+      "value": "Local Todo 2",
+      "isComplete": true
+    },
+    {
+      "id": 4
+    },
+    {
+      "value": "asdf",
+      "isCompleted": true,
+      "id": 5
+    }
+  ]
+}
